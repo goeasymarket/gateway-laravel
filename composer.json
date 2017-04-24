@@ -1,0 +1,15 @@
+{
+    "name": "goeasymarket/gateway-laravel",
+    "description": "Implementar o servico Braintree para o Laravel",
+    "authors": [
+        {
+            "name": "GoEasy Market",
+            "email": "goeasymarket1@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0",
+        "illuminate/support": "5.x",
+        "braintree/braintree_php": "3.x"
+    }
+}
