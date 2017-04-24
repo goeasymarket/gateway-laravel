@@ -1,6 +1,9 @@
 {
     "name": "goeasymarket/gateway-laravel",
     "description": "Implementar o servico Braintree para o Laravel",
+    "license": [
+        "MIT"
+    ],
     "authors": [
         {
             "name": "GoEasy Market",
