@@ -15,5 +15,10 @@
         "illuminate/support": "5.x",
         "braintree/braintree_php": "3.x"
     },
+    "autoload": {
+        "psr-0": {
+            "Goeasymarket\\Laravel": "src/"
+        }
+    },
     "minimum-stability": "dev"
 }
