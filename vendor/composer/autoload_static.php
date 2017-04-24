@@ -7,7 +7,6 @@ namespace Composer\Autoload;
 class ComposerStaticInitb9c095dc3f853badd9f109bf0dccf7b4
 {
     public static $files = array (
-        '5255c38a0faeba867671b61dfda6d864' => __DIR__ . '/..' . '/paragonie/random_compat/lib/random.php',
         '72579e7bd17821bb1321b87411366eae' => __DIR__ . '/..' . '/illuminate/support/helpers.php',
     );
 
