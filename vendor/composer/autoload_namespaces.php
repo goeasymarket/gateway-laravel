@@ -6,6 +6,7 @@ $vendorDir = dirname(dirname(__FILE__));
 $baseDir = dirname($vendorDir);
 
 return array(
+    'Goeasymarket\\Laravel' => array($baseDir . '/src'),
     'Doctrine\\Common\\Inflector\\' => array($vendorDir . '/doctrine/inflector/lib'),
     'Braintree' => array($vendorDir . '/braintree/braintree_php/lib'),
 );

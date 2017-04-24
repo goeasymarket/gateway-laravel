@@ -38,6 +38,13 @@ class ComposerStaticInitb9c095dc3f853badd9f109bf0dccf7b4
     );
 
     public static $prefixesPsr0 = array (
+        'G' => 
+        array (
+            'Goeasymarket\\Laravel' => 
+            array (
+                0 => __DIR__ . '/../..' . '/src',
+            ),
+        ),
         'D' => 
         array (
             'Doctrine\\Common\\Inflector\\' => 
